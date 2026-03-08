@@ -1,2 +1,2 @@
 # Global-Outbreak-Maps
-A 3D modelled Earth that displays viral and disease cases all over the world. Meant to allow for real-time tracking, display of information regarding the case by AI web search.
+A 3D modelled Earth that displays viral and disease cases with related information like transmission type, number of cases, strains etc  by doing and AI web  data collection and information segregation with source priority  for a real time case mapping. Meant for Epidemologists for study and spread prediction as well as to narrow time delay between emergency response and case flagging.
